@@ -16,7 +16,7 @@ export default function App() {
             source={require('./assets/mac.png')}
           />
           <Text style={styles.textDescription}>
-            O MacBook Pro 2026 é um dos computadores mais poderosos da Apple, projetado para profissionais que precisam de alto desempenho. Com um chip M2 Pro ou M2 Max, ele oferece desempenho extraordinário para tarefas pesadas como edição de vídeo, design gráfico e programação. A tela Retina Liquid, com cores precisas e brilho impressionante, torna-o ideal para criadores de conteúdo. Além disso, o design fino e leve garante portabilidade sem comprometer a potência.
+          Embora detalhes específicos sobre o MacBook Pro 2026 ainda não tenham sido oficialmente divulgados pela Apple, espera-se que este modelo apresente avanços significativos em relação às versões anteriores. Rumores indicam que o MacBook Pro 2026 poderá incorporar o chip M6 da Apple, oferecendo desempenho aprimorado e maior eficiência energética. Além disso, há especulações sobre um design mais fino e leve, possivelmente com telas OLED para cores mais vibrantes e pretos profundos. No entanto, devido a atrasos na tecnologia OLED, o lançamento pode ter sido adiado.
           </Text>
         </View>
 
@@ -26,7 +26,7 @@ export default function App() {
             source={require('./assets/Dell.png')}
           />
           <Text style={styles.textDescription}>
-            O Dell XPS 13 2026 é um dos laptops mais reconhecidos no mercado, combinando design elegante com desempenho de ponta. Equipado com os mais recentes processadores Intel i7 ou i9, possui uma tela InfinityEdge praticamente sem bordas, proporcionando uma experiência visual imersiva. Ideal para quem precisa de um dispositivo leve e potente para tarefas cotidianas, reuniões virtuais ou até mesmo para desenvolvedores que necessitam de um computador rápido e eficiente.
+          O Dell XPS 13 é conhecido por seu design elegante e desempenho robusto. A versão de 2021 apresentou processadores Intel Core i7 de 11ª geração e placas gráficas integradas Iris Xe, garantindo desempenho sólido para tarefas cotidianas e profissionais. O modelo de 2026 provavelmente continuará essa tendência, incorporando os mais recentes processadores e melhorias em design e funcionalidade. 
           </Text>
         </View>
 
@@ -48,7 +48,7 @@ export default function App() {
             source={require('./assets/alien.png')}
           />
           <Text style={styles.textDescription}>
-            O Alienware Aurora R15 é um desktop de última geração, projetado para entusiastas de jogos e profissionais que exigem desempenho extremo. Equipado com processadores Intel Core i9 ou AMD Ryzen 9 e placas gráficas da série NVIDIA RTX 40, oferece desempenho imbatível para jogos em 4K, VR, e tarefas como renderização de vídeo e animação 3D. O design futurista e o sistema de resfriamento avançado garantem uma experiência de jogo sem superaquecimento.
+          O Alienware Aurora R15 é um desktop gamer da Dell, projetado para oferecer desempenho excepcional em jogos e aplicações intensivas. Embora as especificações possam variar, geralmente inclui processadores Intel Core i9 ou AMD Ryzen de última geração, placas gráficas Nvidia GeForce RTX ou AMD Radeon, e sistemas de resfriamento avançados. O design é futurista, característico da linha Alienware.
           </Text>
         </View>
 
