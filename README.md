@@ -1,2 +1,2 @@
 # Atividade-1
-pagina de games
+pagina de pc
