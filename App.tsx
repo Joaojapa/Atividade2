@@ -10,7 +10,7 @@ export default function App() {
           6 MODELOS DE COMPUTADORES 2026
         </Text>
 
-        <View style={styles.car}>
+        <View style={styles.pc}>
           <Image
             style={styles.places}
             source={require('./assets/mac.png')}
@@ -20,7 +20,7 @@ export default function App() {
           </Text>
         </View>
 
-        <View style={styles.car}>
+        <View style={styles.pc}>
           <Image
             style={styles.places}
             source={require('./assets/Dell.png')}
@@ -30,7 +30,7 @@ export default function App() {
           </Text>
         </View>
 
-        <View style={styles.car}>
+        <View style={styles.pc}>
           <Image
             style={styles.places}
             source={require('./assets/raze.png')}
@@ -40,9 +40,7 @@ export default function App() {
           </Text>
         </View>
 
-        {}
-
-        <View style={styles.car}>
+        <View style={styles.pc}>
           <Image
             style={styles.places}
             source={require('./assets/alien.png')}
@@ -52,7 +50,7 @@ export default function App() {
           </Text>
         </View>
 
-        <View style={styles.car}>
+        <View style={styles.pc}>
           <Image
             style={styles.places}
             source={require('./assets/msi.png')}
@@ -62,7 +60,7 @@ export default function App() {
           </Text>
         </View>
 
-        <View style={styles.car}>
+        <View style={styles.pc}>
           <Image
             style={styles.places}
             source={require('./assets/microsoft.png')}
@@ -73,7 +71,6 @@ export default function App() {
         </View>
 
       </View>
-
     </ScrollView>
   );
 }
@@ -97,7 +94,7 @@ const styles = StyleSheet.create({
     letterSpacing: 2,  
   },
 
-  car: {
+  pc: {
     maxWidth: "45%",  
     margin: "4%",  
     shadowColor: 'limegreen',  
