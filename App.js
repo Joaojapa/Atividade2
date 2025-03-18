@@ -21,7 +21,7 @@ export default function App() {
           <TouchableOpacity style={styles.arrowContainer}>
             <Text style={styles.arrow}>➡️</Text>
           </TouchableOpacity>
-        </View>
+          </View>
 
         <View style={styles.pc}>
           <Image
